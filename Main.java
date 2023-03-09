@@ -9,5 +9,6 @@ public class Main {
 }
 class Boot{
     String kleur;
+    String grootte;
 
 }
