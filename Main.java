@@ -7,3 +7,7 @@ public class Main {
         System.out.println("Test2");
     }
 }
+class Boot{
+    String kleur;
+
+}
